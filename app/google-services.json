@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "105078795656",
+    "firebase_url": "https://unicornfashion-9a415.firebaseio.com",
+    "project_id": "unicornfashion-9a415",
+    "storage_bucket": "unicornfashion-9a415.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105078795656:android:9c950ae63663820530de3d",
+        "android_client_info": {
+          "package_name": "com.example.unicornfashion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105078795656-hlis8vpg77n03rgo3mt125opdtk1tnc2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.unicornfashion",
+            "certificate_hash": "50d8628b8e24e1d7a7e9987f13308166353b0f6b"
+          }
+        },
+        {
+          "client_id": "105078795656-ocg1g2iubt9sv93tklp26i9n7v8otfnb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKinCuhcT_FyIN6pNFB9JoFeKIzIhyUyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105078795656-ocg1g2iubt9sv93tklp26i9n7v8otfnb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
